@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/word-opposites/static/css/main.f42f1a51.chunk.css",
+    "main.js": "/word-opposites/static/js/main.6026d8a2.chunk.js",
+    "main.js.map": "/word-opposites/static/js/main.6026d8a2.chunk.js.map",
+    "runtime-main.js": "/word-opposites/static/js/runtime-main.14063c76.js",
+    "runtime-main.js.map": "/word-opposites/static/js/runtime-main.14063c76.js.map",
+    "static/js/2.68358428.chunk.js": "/word-opposites/static/js/2.68358428.chunk.js",
+    "static/js/2.68358428.chunk.js.map": "/word-opposites/static/js/2.68358428.chunk.js.map",
+    "static/js/3.9cd59dbb.chunk.js": "/word-opposites/static/js/3.9cd59dbb.chunk.js",
+    "static/js/3.9cd59dbb.chunk.js.map": "/word-opposites/static/js/3.9cd59dbb.chunk.js.map",
+    "index.html": "/word-opposites/index.html",
+    "static/css/main.f42f1a51.chunk.css.map": "/word-opposites/static/css/main.f42f1a51.chunk.css.map",
+    "static/js/2.68358428.chunk.js.LICENSE.txt": "/word-opposites/static/js/2.68358428.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/word-opposites/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.14063c76.js",
+    "static/js/2.68358428.chunk.js",
+    "static/css/main.f42f1a51.chunk.css",
+    "static/js/main.6026d8a2.chunk.js"
+  ]
+}
