@@ -796,8 +796,8 @@ export const wordList = [
     antonyms: ["right"],
   },
   {
-    word: "lend -borrow",
-    antonyms: [""],
+    word: "lend",
+    antonyms: ["borrow"],
   },
   {
     word: "lengthen",
@@ -992,8 +992,8 @@ export const wordList = [
     antonyms: ["closed", "shut"],
   },
   {
-    word: "opposite- same, similar",
-    antonyms: [""],
+    word: "opposite",
+    antonyms: ["same", "similar"],
   },
   {
     word: "optimist",
@@ -1212,8 +1212,8 @@ export const wordList = [
     antonyms: ["sweet"],
   },
   {
-    word: "sow -reap",
-    antonyms: [""],
+    word: "sow",
+    antonyms: ["reap"],
   },
   {
     word: "start",

@@ -8,9 +8,7 @@ function getRandomInt(max) {
 }
 
 const getNextSet = () => {
-  console.log(wordList.length);
   const next = getRandomInt(wordList.length);
-  console.log(next);
   const { word, antonyms } = wordList[next];
   const antonym = antonyms[getRandomInt(antonyms.length)];
   return { word, opposite: antonym };
